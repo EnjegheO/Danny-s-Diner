@@ -1,7 +1,7 @@
 # Danny-s-Diner
 My attempt at the first case study in Danny Ma's 8 Week SQL Challenge. My answers and discussions are in the pdf document while my queries are in the sql file. The images folder contains screenshots of both my queries and results and the main image. To view the full challenge, visit https://8weeksqlchallenge.com/case-study-1/
 
-![Danny's diner](images/dannys_diner_image.png)
+![Danny's diner](Images/dannys_diner_image.png)
 
 ## Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
